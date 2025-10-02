@@ -22,3 +22,13 @@ in $\mathbb{R}^n$”**, which revisits classical results in vector calculus and 
 ---
 
 ## Citation
+```
+@misc{fadel2025exterior,
+    title={The exterior derivative and the mean value equality in $\mathbb{R}^n$},
+    author={Daniel Fadel and Henrique N. Sá Earp and Tomás S. R. Silva},
+    year={2025},
+    eprint={2510.00999},
+    archivePrefix={arXiv},
+    primaryClass={math.DG}
+}
+```
